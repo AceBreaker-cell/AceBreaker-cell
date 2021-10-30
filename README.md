@@ -1,14 +1,23 @@
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+━━━━━━━━━━━━
 
-ㆍ 👋 Hi, I’m AceBreaker//xACB
-ㆍ 👀 I’m interested in Node.JS, Python, HTML
-ㆍ 🌱 I’m currently learning Node.JS, Python
-ㆍ 💞️ I’m looking to collaborate on Nothing this time!
-ㆍ 📫 How to reach me Learn more to be good than me!
+Hello, My name is AceBreaker 👋<br>
+I'm a Student that love to Codes! 👀
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+***client.on('message', message => {
+  if (message.content === '-Ace') {  
+    message.channel.send("❤️ Hey, I love you!");
+  }
+});***
 
-<!---
-AceBreaker-cell/AceBreaker-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+━━━━━━━━━━━━
+
+ᴀᴄᴇʙʀᴇᴀᴋᴇʀ - ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛ
+```
+[🟢] C-Redro : Online
+[🟢] CST﹕Core : Online
+[🟡] Service 0.12 : Beta
+[🔴] Tromutz Music : Offline
+```
+━━━━━━━━━━━━
+
+Ok then, that's it thank you!
