@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━
 
 Hello, My name is AceBreaker 👋<br>
-I'm a Student that love to Codes! 👀
+I'm a Person that love to Codes! 👀
 
 ***client.on('message', message => {
   if (message.content === '-Ace') {  
-    message.channel.send("❤️ Hey, I love you!");
+    message.channel.send("👋 Hey, What's up?");
   }
 });***
 
@@ -13,10 +13,8 @@ I'm a Student that love to Codes! 👀
 
 ᴀᴄᴇʙʀᴇᴀᴋᴇʀ - ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛ
 ```
-[🟢] C-Redro : Online
-[🟢] CST﹕Core : Online
-[🟡] Service 0.12 : Beta
-[🔴] Tromutz Music : Offline
+[🔴] C-Redro      : Offline
+[🔴] Service 0.12 : Offline
 ```
 ━━━━━━━━━━━━
 
