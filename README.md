@@ -5,7 +5,7 @@ I'm a Person that love to Codes! 👀
 
 ***client.on('message', message => {
   if (message.content === '-Ace') {  
-    message.channel.send("👋 Hey, What's up?");
+    message.channel.send("😁 Hey, What's up?");
   }
 });***
 
@@ -13,8 +13,9 @@ I'm a Person that love to Codes! 👀
 
 ᴀᴄᴇʙʀᴇᴀᴋᴇʀ - ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛ
 ```
-[🔴] C-Redro      : Offline
-[🔴] Service 0.12 : Offline
+[🔴] Designing Website
+[🟡] Fixing Plugins
+[🟢] Building Discord Music Bot
 ```
 ━━━━━━━━━━━━
 
