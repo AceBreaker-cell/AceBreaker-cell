@@ -3,7 +3,7 @@
 Hello, My name is AceBreaker 👋<br>
 
 ***client.on('message', message => {
-  if (message.content === '-Ace') {  
+  if (message.content === 'Albatany') {  
     message.channel.send("Hey, What's up?");
   }
 });***
@@ -12,7 +12,8 @@ Hello, My name is AceBreaker 👋<br>
 
 ᴀᴄᴇʙʀᴇᴀᴋᴇʀ - ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛ
 ```
-??? focusing on something.
+2025 - Sistem Teknologi Informasi (Institut Teknologi Bandung)
+2026 - Informatika (Universitas Jambi)
 ```
 ━━━━━━━━━━━━
 
