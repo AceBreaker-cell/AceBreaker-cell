@@ -1,6 +1,6 @@
 ━━━━━━━━━━━━
 
-Hello, My name is AceBreaker 👋<br>
+Hello, My name is Albatany 👋<br>
 
 ***client.on('message', message => {
   if (message.content === 'Albatany') {  
