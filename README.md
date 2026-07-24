@@ -18,22 +18,11 @@
 name: Aziz ("AceBreaker" / "Ace")
 role: Game Programming Student
 crafts: [Unity/C# development, Discord bots, pixel art, music]
-band: Crank — post-hardcore / emo revival
+band: Crank, post-hardcore / emo revival
 currently_learning: narrative systems & gameplay architecture
 languages: [Indonesian, English]
 ```
 
-- 🎮 Building games in **Unity**, mostly 2D pixel-art narrative work
-- 🎸 Play in **Crank**, a post-hardcore / emo revival band
-- 🎨 Also a visual artist — album covers, branding, character art
-- 🤖 I've dabbled in Discord bot dev — see the fossil below 👇
-
-<br>
-
-## 🚧 Currently Building
-
-> **Hari yang Terus Berulang** — a solo 2D pixel-art narrative game built in Unity 6, styled after *A Space for the Unbound*.
-> A looping-day structure, branching dialogue, and multiple endings driven by a custom emotion-flag system — with every core system (dialogue, room transitions, audio crossfade, checkpoints) built from scratch.
 
 <br>
 
@@ -49,15 +38,6 @@ languages: [Indonesian, English]
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=FF2E88)
 
 </div>
-
-<br>
-
-## 🎓 Education
-
-| Year | Program |
-|:---:|:---|
-| 2025 | Sistem Teknologi Informasi — Institut Teknologi Bandung |
-| 2026 | Informatika — Universitas Jambi |
 
 <br>
 
@@ -92,7 +72,7 @@ client.on('message', message => {
 <div align="center">
 
 <!-- Replace LASTFM_USERNAME below with your actual Last.fm username -->
-<a href="https://www.last.fm/user/LASTFM_USERNAME">
+<a href="https://www.last.fm/user/AceBreaker420">
   <img src="https://lastfm-recently-played.vercel.app/api?user=LASTFM_USERNAME&count=1&image_size=8" width="450"/>
 </a>
 
@@ -103,11 +83,9 @@ client.on('message', message => {
 ## 🔗 Connect
 
 <div align="center">
-
-<!-- Swap these placeholder links for your real profiles / Crank's socials -->
-<a href="#"><img src="https://img.shields.io/badge/Discord-2C0735?style=for-the-badge&logo=discord&logoColor=FF2E88"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-2C0735?style=for-the-badge&logo=instagram&logoColor=FF2E88"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Spotify-2C0735?style=for-the-badge&logo=spotify&logoColor=B026FF"/></a>
+<a href="@acebreaker69"><img src="https://img.shields.io/badge/Discord-2C0735?style=for-the-badge&logo=discord&logoColor=FF2E88"/></a>
+<a href="https://instagram.com/azizblvd/"><img src="https://img.shields.io/badge/Instagram-2C0735?style=for-the-badge&logo=instagram&logoColor=FF2E88"/></a>
+<a href="https://open.spotify.com/user/31acau4fmp7lixasqx5w4fgnz5zi"><img src="https://img.shields.io/badge/Spotify-2C0735?style=for-the-badge&logo=spotify&logoColor=B026FF"/></a>
 
 </div>
 
