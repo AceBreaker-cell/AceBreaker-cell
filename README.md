@@ -38,6 +38,18 @@ languages: [Indonesian, English]
 <details>
 <summary>Click here to view more</summary>
 
+## 🎧 : Last.fm Stats
+
+<div align="center">
+<a href="https://www.last.fm/user/AceBreaker420">
+  <img src="https://lastly.nisarga.me/api/overall?username=AceBreaker420&period=overall" width="450"/>
+</a>
+<a href="https://www.last.fm/user/AceBreaker420">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=AceBreaker420&count=1&image_size=8" width="450"/>
+</a>
+</div>
+<br>
+
 ## 📊 : GitHub Stats
 
 <div align="center">
@@ -49,18 +61,6 @@ languages: [Indonesian, English]
 
 </div>
 
-<br>
-
-## 🎧 : Last.fm Stats
-
-<div align="center">
-<a href="https://www.last.fm/user/AceBreaker420">
-  <img src="https://lastly.nisarga.me/api/overall?username=AceBreaker420&period=overall" width="450"/>
-</a>
-<a href="https://www.last.fm/user/AceBreaker420">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=AceBreaker420&count=1&image_size=8" width="450"/>
-</a>
-</div>
 <br>
 
 ## 🔗 : Connect!
