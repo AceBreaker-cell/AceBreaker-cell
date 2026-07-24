@@ -11,20 +11,6 @@
 </div>
 
 <br>
-
-
-```yaml
-name: Aziz ("AceBreaker" / "Ace")
-role: Game Programming Student
-crafts: [Unity/C# development, Discord bots, pixel art, music]
-band: Crank, post-hardcore / emo revival
-currently_learning: narrative systems & gameplay architecture
-languages: [Indonesian, English]
-```
-
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -37,6 +23,16 @@ languages: [Indonesian, English]
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=FF2E88)
 
 </div>
+
+```yaml
+name: Aziz ("AceBreaker" / "Ace")
+role: Game Programming Student
+crafts: [Unity/C# development, Discord bots, pixel art, music]
+band: Crank, post-hardcore / emo revival
+currently_learning: narrative systems & gameplay architecture
+languages: [Indonesian, English]
+```
+
 
 <br>
 
