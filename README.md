@@ -12,7 +12,6 @@
 
 <br>
 
-## ⚡ About Me
 
 ```yaml
 name: Aziz ("AceBreaker" / "Ace")
@@ -41,19 +40,6 @@ languages: [Indonesian, English]
 
 <br>
 
-## 💾 A Fossil From My Early Bot Days
-
-```js
-// one of my first Discord bots — kept it around for the nostalgia
-client.on('message', message => {
-  if (message.content === 'Albatany') {
-    message.channel.send("Hey, What's up?");
-  }
-});
-```
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,7 +59,7 @@ client.on('message', message => {
 
 <!-- Replace LASTFM_USERNAME below with your actual Last.fm username -->
 <a href="https://www.last.fm/user/AceBreaker420">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=LASTFM_USERNAME&count=1&image_size=8" width="450"/>
+  <img src="https://lastfm-recently-played.vercel.app/api?user=AceBreaker420&count=1&image_size=8" width="450"/>
 </a>
 
 </div>
