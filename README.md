@@ -11,7 +11,8 @@
 </div>
 
 <br>
-## 🛠️ Tech Stack
+
+## 🛠️ : Tech Stack
 
 <div align="center">
 
@@ -33,10 +34,9 @@ currently_learning: narrative systems & gameplay architecture
 languages: [Indonesian, English]
 ```
 
-
 <br>
 
-## 📊 GitHub Stats
+## 📊 : GitHub Stats
 
 <div align="center">
 
@@ -49,7 +49,7 @@ languages: [Indonesian, English]
 
 <br>
 
-## 🎧 Now Playing
+## 🎧 : Now Playing
 
 <div align="center">
 
@@ -62,7 +62,7 @@ languages: [Indonesian, English]
 
 <br>
 
-## 🔗 Connect
+## 🔗 : Connect
 
 <div align="center">
 <a href="@acebreaker69"><img src="https://img.shields.io/badge/Discord-2C0735?style=for-the-badge&logo=discord&logoColor=FF2E88"/></a>
