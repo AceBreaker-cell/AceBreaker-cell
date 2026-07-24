@@ -6,14 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+AceBreaker+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Musician+%40+Crank+%F0%9F%8E%B8;Pixel+Art+Storyteller+%F0%9F%8E%A8" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=AceBreaker-cell&label=Profile%20Views&color=B026FF&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AceBreaker-Cell&label=Profile%20Views&color=B026FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
 <br>
 
-## 🛠️ : Tech Stack
-
+## 
 <div align="center">
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -26,43 +25,45 @@
 </div>
 
 ```yaml
-name: Aziz ("AceBreaker" / "Ace")
+name: Aziz Albatany ("AceBreaker" / "Ace")
 role: Game Programming Student
 crafts: [Unity/C# development, Discord bots, pixel art, music]
 band: Crank, post-hardcore / emo revival
 currently_learning: narrative systems & gameplay architecture
 languages: [Indonesian, English]
 ```
+<div align="center"> <a href="https://wakatime.com/@b71db2da-33e1-4886-96e9-dc295e08a06f"> <img src="https://wakatime.com/badge/user/b71db2da-33e1-4886-96e9-dc295e08a06f.svg" alt="Total time coded on WakaTime"/> </a> </div>
 
 <br>
+<details>
+<summary>Click here to view more</summary>
 
 ## 📊 : GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AceBreaker-cell&show_icons=true&hide_border=true&bg_color=0D0221&title_color=B026FF&icon_color=FF2E88&text_color=c9c9c9&ring_color=6A0DAD" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AceBreaker-Cell&show_icons=true&hide_border=true&bg_color=0D0221&title_color=B026FF&icon_color=FF2E88&text_color=c9c9c9&ring_color=6A0DAD" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceBreaker-cell&layout=compact&hide_border=true&bg_color=0D0221&title_color=B026FF&text_color=c9c9c9&langs_count=8" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=AceBreaker-cell&hide_border=true&background=0D0221&ring=B026FF&fire=FF2E88&currStreakLabel=B026FF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=6a6a6a" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=AceBreaker-Cell&hide_border=true&background=0D0221&ring=B026FF&fire=FF2E88&currStreakLabel=B026FF&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=6a6a6a" width="70%"/>
 
 </div>
 
 <br>
 
-## 🎧 : Now Playing
+## 🎧 : Last.fm Stats
 
 <div align="center">
-
-<!-- Replace LASTFM_USERNAME below with your actual Last.fm username -->
+<a href="https://www.last.fm/user/AceBreaker420">
+  <img src="https://lastly.nisarga.me/api/overall?username=AceBreaker420&period=overall" width="450"/>
+</a>
 <a href="https://www.last.fm/user/AceBreaker420">
   <img src="https://lastfm-recently-played.vercel.app/api?user=AceBreaker420&count=1&image_size=8" width="450"/>
 </a>
-
 </div>
-
 <br>
 
-## 🔗 : Connect
+## 🔗 : Connect!
 
 <div align="center">
 <a href="@acebreaker69"><img src="https://img.shields.io/badge/Discord-2C0735?style=for-the-badge&logo=discord&logoColor=FF2E88"/></a>
@@ -72,3 +73,4 @@ languages: [Indonesian, English]
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:3C0A5C,100:0D0221&height=120&section=footer" width="100%"/>
+</details>
