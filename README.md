@@ -54,16 +54,9 @@ languages: [Indonesian, English]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Albatany&show_icons=true&hide_border=true&bg_color=152331&title_color=fcfcf7&icon_color=FF2E88&text_color=c9c9c9&ring_color=6A0DAD" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albatany&layout=compact&hide_border=true&bg_color=0D0221&title_color=B026FF&text_color=c9c9c9&langs_count=8" width="49%"/>
-
 <img src="https://streak-stats.demolab.com?user=AceBreaker-Cell&hide_border=true&background=152331&ring=f7cf7e&fire=fa7f41&currStreakLabel=fcfcf7&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=6a6a6a" width="70%"/>
 
 </div>
-
-<br>
-
-## 🔗 : Connect!
 
 <div align="center">
 <a href="@acebreaker69"><img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865f2"/></a>
