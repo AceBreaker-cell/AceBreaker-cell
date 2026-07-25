@@ -36,7 +36,7 @@ languages: [Indonesian, English]
 
 <br>
 <details>
-<summary>Click here to view more</summary>
+<summary><b>👀 Click here to view more!</b></p></summary>
 
 ## 🎧 : Last.fm Stats
 
