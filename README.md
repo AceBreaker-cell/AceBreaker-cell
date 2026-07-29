@@ -89,8 +89,6 @@ AceBreaker
 
 <br><br>
 
-#### 🔗 Elsewhere
-
 <a href="https://instagram.com/azizblvd/"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=FF2E88"/></a>
 <a href="https://open.spotify.com/user/31acau4fmp7lixasqx5w4fgnz5zi"><img src="https://img.shields.io/badge/Spotify-333333?style=for-the-badge&logo=spotify&logoColor=1ed760"/></a>
 <img src="https://img.shields.io/badge/Discord-acebreaker69-333333?style=for-the-badge&logo=discord&logoColor=5865f2"/>
