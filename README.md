@@ -41,12 +41,15 @@
 
 #### 🎧 last.fm feed
 
+<div align="center">
 <a href="https://www.last.fm/user/AceBreaker420">
-  <img src="https://lastly.nisarga.me/api/overall?username=AceBreaker420&period=overall" width="45%"/>
+  <img src="https://lastly.nisarga.me/api/overall?username=AceBreaker420&period=overall" width="450"/>
 </a>
 <a href="https://www.last.fm/user/AceBreaker420">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=AceBreaker420&count=1&image_size=8" width="45%"/>
+  <img src="https://lastfm-recently-played.vercel.app/api?user=AceBreaker420&count=1&image_size=8" width="450"/>
 </a>
+</div>
+<br>
 
 <br><br>
 
