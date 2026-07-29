@@ -56,8 +56,15 @@
 #### 📊 github stats
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AceBreaker-cell&theme=green&hide_border=true&bg_color=0D1117" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=AceBreaker-Cell&hide_border=true&background=152331&ring=f7cf7e&fire=fa7f41&currStreakLabel=fcfcf7&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=6a6a6a" width="70%"/>
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AceBreaker-cell&hide_border=true&background=1D291F&ring=f7cf7e&fire=fa7f41&currStreakLabel=fcfcf7&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=6a6a6a%22%20width=%2270%"/>
+
 
 </div>
 
