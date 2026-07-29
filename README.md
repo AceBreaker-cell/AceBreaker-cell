@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AceBreaker-Cell&label=Profile%20Views&color=39ff14&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AceBreaker-Cell&label=Profile%20Views&color=126602&style=flat-square" alt="Profile views"/>
 <a href="https://wakatime.com/@b71db2da-33e1-4886-96e9-dc295e08a06f">
   <img src="https://wakatime.com/badge/user/b71db2da-33e1-4886-96e9-dc295e08a06f.svg" alt="Total time coded on WakaTime"/>
 </a>
