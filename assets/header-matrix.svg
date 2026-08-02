@@ -66,13 +66,7 @@
   </g>
 
   <g stroke="#39ff14" stroke-width="2" fill="none" opacity=".45">
-    <path d="M22,22 L22,50 M22,22 L50,22"/>
-    <path d="M1178,22 L1178,50 M1178,22 L1150,22"/>
-    <path d="M22,238 L22,210 M22,238 L50,238"/>
-    <path d="M1178,238 L1178,210 M1178,238 L1150,238"/>
   </g>
-  <text x="34" y="244" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#39ff14" opacity=".5">SYSTEM://ACEBREAKER-CELL</text>
-  <text x="1166" y="244" font-family="ui-monospace, 'Courier New', monospace" font-size="12" fill="#39ff14" opacity=".5" text-anchor="end">STATUS: ONLINE</text>
   </g>
 </g>
 </svg>
