@@ -63,7 +63,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AceBreaker-cell&hide_border=true&background=1D291F&ring=f7cf7e&fire=fa7f41&currStreakLabel=fcfcf7&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=6a6a6a%22%20width=%2270%"/>
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=AceBreaker-cell&show_icons=true&theme=transparent&title_color=8DA9C4&icon_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AceBreaker-cell&layout=compact&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="Top Languages"/>
 
 
 </div>
