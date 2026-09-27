@@ -33,7 +33,7 @@
 
 <br>
 
-#### stack (programming languages, frameworks, databases, and tools you use to build software)
+#### stack (programming languages, frameworks, databases, and tools that i use to build software)
 
 <img src="https://skillicons.dev/icons?i=github,notion,vscode,idea,windows,linux,unity,godot,blender,robloxstudio,java,eclipse,c,cs,cpp,js,ts,discordjs,nodejs,htmx,html,css,tailwind,react,laravel,mysql,php,perl,py,replit,nginx,npm,gcp,aws,ps,figma,discord,git&theme=dark" />
 
