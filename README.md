@@ -35,7 +35,7 @@
 
 #### Stack
 
-<img src="https://skillicons.dev/icons?i=unity,cs,js,nodejs,discord,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,notion,vscode,idea,windows,linux,unity,godot,blender,robloxstudio,java,eclipse,c,cs,cpp,js,ts,discordjs,nodejs,htmx,html,css,tailwind,react,laravel,mysql,php,perl,py,replit,nginx,npm,gcp,aws,ps,figma,discord,git&theme=dark" />
 
 <br><br>
 
