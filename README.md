@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-matrix.svg" width="100%" alt="AceBreaker"/>
+<img src="assets/header-matrix.svg" width="100%" alt="albatany"/>
 
 </div>
 
@@ -9,14 +9,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AceBreaker-Cell/AceBreaker-Cell/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AceBreaker-Cell/AceBreaker-Cell/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating AceBreaker's contribution graph" src="https://raw.githubusercontent.com/AceBreaker-Cell/AceBreaker-Cell/output/pacman-contribution-graph.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albatany/Albatany/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albatany/Albatany/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating AceBreaker's contribution graph" src="https://raw.githubusercontent.com/Albatany/Albatany/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AceBreaker-cell&label=Profile%20Views&color=126602&style=plastic" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Albatany&label=Profile%20Views&color=126602&style=plastic" alt="Profile views"/>
 <a href="https://wakatime.com/@b71db2da-33e1-4886-96e9-dc295e08a06f">
   <img src="https://wakatime.com/badge/user/b71db2da-33e1-4886-96e9-dc295e08a06f.svg" alt="Total time coded on WakaTime"/>
 </a>
@@ -57,8 +57,8 @@
 <div align="center">
 
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=AceBreaker-cell&show_icons=true&theme=transparent&title_color=8DA9C4&icon_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="GitHub Stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AceBreaker-cell&layout=compact&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Albatany&show_icons=true&theme=transparent&title_color=8DA9C4&icon_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Albatany&layout=compact&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="Top Languages"/>
 
 
 </div>
