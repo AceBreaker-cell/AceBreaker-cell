@@ -7,15 +7,14 @@
 
 Welcome to albatany center, what's up?
 
-<br>
 <a href="https://wakatime.com/@b71db2da-33e1-4886-96e9-dc295e08a06f">
   <img src="https://wakatime.com/badge/user/b71db2da-33e1-4886-96e9-dc295e08a06f.svg" alt="Total time coded on WakaTime"/>
 </a>
 
+
+<br><br>
 <details>
 <summary><b>Click to know more about me! 👀</b></summary>
-
-<br>
 
 #### `$ whoami`
 <img src="assets/whoami-terminal.svg" width="100%" alt="whoami terminal"/>
